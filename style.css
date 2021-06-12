@@ -1,0 +1,28 @@
+body{
+    background-color: darkturquoise;
+}
+body{
+    border:solid rgb(192, 19, 19);
+border-width: 10px;
+}
+img{
+    border:solid rgb(139, 132, 23);
+}
+.header{
+    background-color: chocolate;
+}
+.footer{
+    background-color: chocolate;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+justify-content: space-evenly;
+}
+.footer{display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+    color:crimson
+}
